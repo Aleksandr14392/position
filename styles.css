@@ -1,0 +1,24 @@
+.pink {
+  width: 100px;
+  height: 100px;
+  background-color: palevioletred;
+}
+
+.blue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  left: 70px;
+  top: 70px;
+  position: absolute;
+}
+
+.green {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  left: 140px;
+  top: 140px;
+  position: absolute;
+  z-index: -1;
+}
